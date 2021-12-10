@@ -1,0 +1,16 @@
+.bgimg{
+    background-image: url('image/corousel1.jpeg'); 
+    background-size:100%;
+    background-attachment: fixed;
+    width:100%;
+    height:660px;
+}
+body {
+    background-color: midnightblue;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
